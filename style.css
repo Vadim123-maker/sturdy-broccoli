@@ -1,0 +1,29 @@
+table {
+    border: 1px solid rgb(0, 0, 0);
+}
+
+caption {
+    background-color: bisque;
+}
+
+td {
+    border: 1px solid black;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    background-color: grey;
+}
+
+.red {
+    background-color: red;
+}
+.ty {
+ background-color: yellow;
+ color: rgb(0, 0, 0);
+}
+.yt {
+    background-color: aliceblue;
+}
+.qw {
+    background-color: cyan;
+}
